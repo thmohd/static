@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mohammad</title>
+    <link href="http://github.com/thmohd/static/feed.xml" rel="self" />
+    <link href="http://github.com/thmohd/static" />
+    <updated>2018-08-17T15:00:23-04:00</updated>
+    <author>
+        <name>Mohammad Althayabeh</name>
+    </author>
+    <id>http://github.com/thmohd/static</id>
+
+    <entry>
+        <title>What does php mean</title>
+        <author>
+            <name>Mohammad Althayabeh</name>
+        </author>
+        <link href="http://github.com/thmohd/static/What-does-php-mean.html"/>
+        <id>http://github.com/thmohd/static/What-does-php-mean.html</id>
+
+        <updated>2018-08-17T14:51:31-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://github.com/thmohd/static/media/posts/2/" alt="" />
+                    this is a sample page about php
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/thmohd/static/media/posts/2/" alt="" />
+                this is a sample page about php
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Mohammad Althayabeh</name>
+        </author>
+        <link href="http://github.com/thmohd/static/about-me.html"/>
+        <id>http://github.com/thmohd/static/about-me.html</id>
+
+        <updated>2018-08-17T14:51:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://github.com/thmohd/static/media/posts/1/" alt="" />
+                    This is just a sample page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://github.com/thmohd/static/media/posts/1/" alt="" />
+                This is just a sample page
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mohammad",
+    "description": "",
+    "home_page_url": "http://github.com/thmohd/static",
+    "feed_url": "http://github.com/thmohd/static/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mohammad Althayabeh"
+    },
+    "items": [
+        {
+            "id": "http://github.com/thmohd/static/What-does-php-mean.html",
+            "url": "http://github.com/thmohd/static/What-does-php-mean.html",
+            "title": "What does php mean",
+            "summary": "this is a sample page about php",
+            "content_html": "this is a sample page about php",
+            "image": "http://github.com/thmohd/static/media/posts/2/",
+            "author": {
+                "name": "Mohammad Althayabeh"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-17T14:51:31-04:00",
+            "date_modified": "2018-08-17T14:51:31-04:00"
+        },
+        {
+            "id": "http://github.com/thmohd/static/about-me.html",
+            "url": "http://github.com/thmohd/static/about-me.html",
+            "title": "About Me",
+            "summary": "This is just a sample page",
+            "content_html": "This is just a sample page",
+            "image": "http://github.com/thmohd/static/media/posts/1/",
+            "author": {
+                "name": "Mohammad Althayabeh"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-17T14:51:05-04:00",
+            "date_modified": "2018-08-17T14:51:05-04:00"
+        }
+    ]
+}
